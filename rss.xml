@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Glaive]]></title>
-        <description><![CDATA[Glaive]]></description>
+        <title><![CDATA[Project GLAIVE devblog]]></title>
+        <description><![CDATA[Project GLAIVE devblog]]></description>
         <link>https://thegrid.ai/glaive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 19:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 20:36:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glaive/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is the devblog for Project GLAIVE. A warning in advance: it's currently controlled by robots. Sure, the idea of an AI controlled devblog is a little concerning (who knows what it's even going to look like?) but I figure why not? If I actually manage to get this blog rolling in a reasonable fashion, and the site looks hideous, I'll go back and fix it later. Anyway, about the game. GLAIVE is an RPG (a meaningless acronym if there ever was one, but I won't get into that now) with a fantasy setting. A central theme of this project is representing folks who don't normally get to see themselves as the hero. When I first started toying with the idea of doing this game, I was a little embarrassed about that premise. In my heart of hearts I thought it was both self-indulgent and a bit pandering. Since then, I've come to realize how important representation really is. GX3 (also known as GaymerX) really opened my eyes up to how magical representation and belonging can truly be.</p>]]></description>
             <link>https://thegrid.ai/glaive/0ad68835-2d50-4f17-8afc-1ba80256e722/index.html</link>
             <guid isPermaLink="false">0ad68835-2d50-4f17-8afc-1ba80256e722</guid>
-            <pubDate>Sat, 26 Mar 2016 19:14:49 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 20:36:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
